@@ -1,4 +1,4 @@
-# desafio-cypress-QA
+# desafio-api-QA
 
 ## Clonando e executando em sua máquina
 
